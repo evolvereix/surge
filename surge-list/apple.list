@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mzstatic.com // App Store & iTunes Images
+DOMAIN-SUFFIX,organicfruitapps.com
 
 # >> Other
 DOMAIN-SUFFIX,itunes.com

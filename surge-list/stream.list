@@ -40,6 +40,7 @@ DOMAIN-SUFFIX,primevideo.com
 
 USER-AGENT,InstantVideo.US*
 USER-AGENT,Prime%20Video*
+
 # >> Apple TV
 DOMAIN,ocvideo.apple.com
 
@@ -323,7 +324,6 @@ USER-AGENT,com.google.ios.youtube*
 USER-AGENT,*youtube*
 USER-AGENT,YouTube*
 USER-AGENT,YouTubeMusic*
-
 
 # >> SHOWTIME
 DOMAIN-SUFFIX,sho.com

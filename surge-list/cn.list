@@ -1,14 +1,17 @@
 # --- Mainland China Available --
 
-# >>rixCloud
+# >> rixCloud
+DOMAIN,non-exist.rixcloud.com
 DOMAIN,doh.rixcloud.dev
-DOMAIN,rixcloudstatus.com
+DOMAIN-SUFFIX,rixcloudstatus.com
+DOMAIN-SUFFIX,rixcloudstatus.io
+DOMAIN-SUFFIX,rixcloud.fail
 
-# > 360
+# >> 360
 DOMAIN-SUFFIX,qhimg.com
 DOMAIN-SUFFIX,qhres.com
 
-# > Akamai
+# >> Akamai
 DOMAIN-SUFFIX,akadns.net
 
 # >> Alibaba
@@ -31,18 +34,19 @@ DOMAIN-SUFFIX,youku.com
 
 USER-AGENT,%E4%BC%98%E9%85%B7*
 
+# >> Apple
+DOMAIN-SUFFIX,icloud.com.cn
+DOMAIN,gs-loc-cn.apple.com
+
 # >> Baidu
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,baidubcr.com
 DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-SUFFIX,yunjiasu-cdn.net
 
-
 # >> bilibili
 DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,acgvideo.com
-DOMAIN-SUFFIX,biliapi.com
-DOMAIN-SUFFIX,biliapi.net
 DOMAIN-SUFFIX,bilibili.cn
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,bilibili.tv
@@ -63,7 +67,7 @@ DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,toutiao.com
 
-# > CCTV
+# >> CCTV
 DOMAIN-SUFFIX,cctv.com
 DOMAIN-SUFFIX,cctvpic.com
 DOMAIN-SUFFIX,livechina.com
@@ -218,7 +222,7 @@ DOMAIN-SUFFIX,zmzfile.com
 
 USER-AGENT,YYeTs*
 
-# > Content Delivery Network
+# >> Content Delivery Network
 DOMAIN-SUFFIX,ccgslb.com
 DOMAIN-SUFFIX,ccgslb.net
 DOMAIN-SUFFIX,chinanetcenter.com
@@ -231,6 +235,7 @@ DOMAIN-SUFFIX,wangsu.com
 DOMAIN,cn.download.nvidia.com
 DOMAIN-KEYWORD,amplifi
 
+DOMAIN-SUFFIX,12306.cn
 DOMAIN-SUFFIX,360in.com
 DOMAIN-SUFFIX,40017.cn
 DOMAIN-SUFFIX,51ym.me
@@ -361,5 +366,8 @@ PROCESS-NAME,Transmission
 PROCESS-NAME,uTorrent
 PROCESS-NAME,WebTorrent
 PROCESS-NAME,WebTorrent Helper
+
+# >> Tencent AIA
+IP-CIDR,162.14.0.0/18,no-resolve
 
 # --- End of Mainland China Available Section ---
