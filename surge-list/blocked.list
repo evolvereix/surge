@@ -60,6 +60,7 @@ DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
+
 DOMAIN-SUFFIX,appspot.com,force-remote-dns
 DOMAIN-SUFFIX,blogger.com,force-remote-dns
 DOMAIN-SUFFIX,getoutline.org,force-remote-dns
@@ -184,14 +185,17 @@ DOMAIN-SUFFIX,oracle.com
 DOMAIN,ccmdl.adobe.com
 DOMAIN,media.steampowered.com
 DOMAIN,wego.here.com
+
 DOMAIN-SUFFIX,gameloft.com
 DOMAIN-SUFFIX,majsoul.union-game.com
+
 DOMAIN-SUFFIX,520cc.cc
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,fb.com
 DOMAIN-SUFFIX,majsoul.union-game.com
 DOMAIN-SUFFIX,newsblur.com
+
 DOMAIN-KEYWORD,github
 
 USER-AGENT,Roam*
@@ -232,12 +236,13 @@ DOMAIN-SUFFIX,paypalobjects.com
 # >> Nintendo
 DOMAIN-SUFFIX,nintendo.com
 DOMAIN-SUFFIX,nintendo.net
+DOMAIN-SUFFIX,nintendowifi.net
 
 # >> Notion
 DOMAIN-SUFFIX,notion.so
 DOMAIN-KEYWORD,notion
 
-# >> Notion
+# >> CleanShot
 DOMAIN-SUFFIX,cleanshot.cloud
 DOMAIN-SUFFIX,getcleanshot.com
 DOMAIN-SUFFIX,prod.legit.maketheweb.pl
