@@ -247,4 +247,10 @@ DOMAIN-SUFFIX,cleanshot.cloud
 DOMAIN-SUFFIX,getcleanshot.com
 DOMAIN-SUFFIX,prod.legit.maketheweb.pl
 
+# >> Other
+DOMAIN-SUFFIX,instapaper.com
+
+# >> Surge
+PROCESS-NAME,Surge
+
 # --- End of General GFW Section ---
