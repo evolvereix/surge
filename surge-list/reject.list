@@ -81,7 +81,7 @@ DOMAIN-SUFFIX,aerserv.com
 DOMAIN-SUFFIX,agkn.com
 DOMAIN-SUFFIX,alipaylog.com
 DOMAIN-SUFFIX,amazon-adsystem.com
-DOMAIN-SUFFIX,analysys.cn
+# DOMAIN-SUFFIX,analysys.cn
 DOMAIN-SUFFIX,api.appsee.com
 DOMAIN-SUFFIX,app-adforce.jp
 DOMAIN-SUFFIX,app-measurement.com
@@ -129,7 +129,7 @@ DOMAIN-SUFFIX,googleadsserving.cn
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,gowadogo.com
-DOMAIN-SUFFIX,growingio.com
+# DOMAIN-SUFFIX,growingio.com
 DOMAIN-SUFFIX,i2000.xyz
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,igexin.com
