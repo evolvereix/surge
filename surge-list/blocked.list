@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,ampproject.org
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,youtube
 DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,github
 DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-KEYWORD,twitter
@@ -19,3 +20,5 @@ DOMAIN-KEYWORD,whatsapp
 DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,bing.com

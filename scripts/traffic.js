@@ -35,7 +35,7 @@ let args = getArgs()
   $done({
     title: `${args.title} | ${hour}:${minutes}`,
     content: content.join('\n'),
-    icon: args.icon || 'airplane.circle',
+    icon: args.icon || 'externaldrive.badge.icloud',
     'icon-color': args.color || '#007aff'
   })
 })()
@@ -51,7 +51,8 @@ function getArgs() {
 
 function getUserInfo(url) {
   let method = args.method || 'head'
-  let request = { headers: { 'User-Agent': 'Quantumult%20X' }, url }
+  // let request = { headers: { 'User-Agent': 'Quantumult%20X' }, url }
+  let request = { headers: { 'User-Agent': 'Surge%205' }, url }
   return new Promise((resolve, reject) =>
     $httpClient[method](request, (err, resp) => {
       if (err != null) {
@@ -122,5 +123,5 @@ function formatTime(time) {
   let year = dateObj.getFullYear()
   let month = dateObj.getMonth() + 1
   let day = dateObj.getDate()
-  return year + '年' + month + '月' + day + '日'
+  return year + '-' + month + '-' + day
 }

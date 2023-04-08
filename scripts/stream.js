@@ -1,6 +1,6 @@
 const REQUEST_HEADERS = {
   'User-Agent':
-    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36',
+    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15',
   'Accept-Language': 'en'
 }
 
@@ -16,13 +16,13 @@ const STATUS_TIMEOUT = -1
 const STATUS_ERROR = -2
 
 const UA =
-  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36'
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15'
 
 ;(async () => {
   let panel_result = {
     title: '流媒体解锁检测',
     content: '',
-    icon: 'play.tv.fill',
+    icon: 'play.tv',
     'icon-color': '#FF2D55'
   }
   let [{ region, status }] = await Promise.all([testDisneyPlus()])
@@ -146,7 +146,7 @@ async function check_netflix() {
 
   let netflix_check_result = 'Netflix: '
 
-  await inner_check(81215567)
+  await inner_check(80062035)
     .then((code) => {
       if (code === 'Not Found') {
         return inner_check(80018499)
@@ -238,7 +238,7 @@ function getLocationInfo() {
             applicationRuntime: 'chrome',
             attributes: {
               browserName: 'chrome',
-              browserVersion: '106.0.0.0',
+              browserVersion: '94.0.4606',
               manufacturer: 'apple',
               model: null,
               operatingSystem: 'macintosh',

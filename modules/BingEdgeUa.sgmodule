@@ -1,0 +1,8 @@
+#!name=Bing Edge UA
+#!desc=Simulation Edge
+
+[MITM]
+hostname = %APPEND% *.bing.com, bing.com
+
+[Script]
+bing-edge-ua = type=http-request,pattern=^http(s)?:\/\/(?:.*\.)?bing\.com,requires-body=false,script-path=scripts/edgeUa.js
