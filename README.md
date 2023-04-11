@@ -1,6 +1,8 @@
 <samp><b>Surge Config</b></samp>
 
-<sub><em>[`Surge.conf`](./Surge.conf)</em></sub>
+<sub><em>[`Surge.conf`](https://raw.githubusercontent.com/evolvereix/surge/main/Surge.conf)</em></sub><br>
+<sub><em>[`modules/TestFlight.sgmodule`](https://raw.githubusercontent.com/evolvereix/surge/main/modules/TestFlight.sgmodule)</em></sub><br>
+<sub><em>[`modules/BingEdgeUa.sgmodule`](https://raw.githubusercontent.com/evolvereix/surge/main/modules/BingEdgeUa.sgmodule)</em></sub>
 
 <br>
 <br>
