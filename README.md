@@ -9,8 +9,7 @@
 <p align="center"><samp>Preview</samp></p>
 
 <p align="center">
-<img width="300" src="https://lf3-static.bytednsdoc.com/obj/eden-cn/slbthzeh7hbovhozbo/profile/surge_card.png" />
-<img width="300" src="https://lf3-static.bytednsdoc.com/obj/eden-cn/slbthzeh7hbovhozbo/profile/surge_list.png" />
+<img width="700" src="https://github.com/evolvereix/surge/assets/37773107/2ba1fabd-d509-4575-a995-8b92379e961e" />
 <br>
 <sub><samp>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Surge iOS | <a href="https://apps.apple.com/app/surge-5/id1442620678">5.20.0 or later</a></samp></sub>
 <br>
