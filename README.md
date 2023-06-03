@@ -9,7 +9,7 @@
 <p align="center"><samp>Preview</samp></p>
 
 <p align="center">
-<img width="700" src="https://github.com/evolvereix/surge/assets/37773107/2ba1fabd-d509-4575-a995-8b92379e961e" />
+<img width="700" src="https://github.com/evolvereix/surge/assets/37773107/30f9cce4-b4a5-4fba-8ffb-570bebd804ae" />
 <br>
 <sub><samp>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Surge iOS | <a href="https://apps.apple.com/app/surge-5/id1442620678">5.20.0 or later</a></samp></sub>
 <br>
