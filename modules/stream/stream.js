@@ -1,6 +1,6 @@
 const REQUEST_HEADERS = {
   'User-Agent':
-    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15',
+    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36',
   'Accept-Language': 'en'
 }
 
@@ -16,13 +16,13 @@ const STATUS_TIMEOUT = -1
 const STATUS_ERROR = -2
 
 const UA =
-  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15'
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36'
 
 ;(async () => {
   let panel_result = {
     title: '流媒体解锁检测',
     content: '',
-    icon: 'play.tv',
+    icon: 'play.tv.fill',
     'icon-color': '#FF2D55'
   }
   let [{ region, status }] = await Promise.all([testDisneyPlus()])
