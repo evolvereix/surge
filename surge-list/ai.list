@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,stripe.com
 DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-KEYWORD,chatgpt
 
 # JetBrains AI
 DOMAIN-SUFFIX,grazie.ai
