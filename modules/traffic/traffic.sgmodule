@@ -1,6 +1,5 @@
 #!name=Traffic
 #!desc=Show Subscription information
-#!system=ios
 #!category=Panel
 #!arguments=机场名称, 订阅链接, 重置日期, 图标样式:externaldrive.badge.icloud, 图标颜色:#007aff
 #!arguments-desc=订阅链接: encodeURIComponent 之后的订阅链接
