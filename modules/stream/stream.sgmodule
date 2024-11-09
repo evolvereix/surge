@@ -1,11 +1,10 @@
 #!name=Stream
 #!desc=Netflix/Disney/YouTube Unlock Detection
 #!category=Panel
-#!system=ios
 
 [Panel]
-StreamPanel = script-name=stream,update-interval=3600
+StreamPanel = script-name=StreamScript,update-interval=3600
 
 [Script]
 # Stream
-stream = script-path=https://raw.evolvereix.com/evolvereix/surge/main/modules/stream/stream.js,type=generic,timeout=15
+StreamScript = script-path=https://raw.evolvereix.com/evolvereix/surge/main/modules/stream/stream.js,type=generic,timeout=15
