@@ -5,7 +5,7 @@
 
 [Script]
 # JD Price Comparison
-JDPriceComparison = type=http-response,pattern=^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=(wareBusiness|serverConfig|basicConfig),requires-body=1,script-path=https://raw.evolvereix.com/evolvereix/surge/main/modules/jd/jdPrice.js
+JDPriceComparison = type=http-response,pattern=^https?:\/\/api\.m\.jd\.com/client\.action\?functionId=(wareBusiness|serverConfig|basicConfig),requires-body=1,script-path=https://raw.evolvereix.com/evolvereix/surge/main/modules/jd/jdPrice.js
 
 [MITM]
-hostname = %APPEND% api.m.jd.com
+hostname = api.m.jd.com

@@ -1,14 +1,9 @@
 <samp><b>Surge Config</b></samp>
 
 <sub><em>[`Surge.conf`](https://raw.evolvereix.com/evolvereix/surge/main/Surge.conf)</em></sub><br>
-<sub><em>[`ali_dns_doh2.sgmodule`](https://raw.evolvereix.com/evolvereix/surge/main/modules/ali_dns_doh2.sgmodule)</em></sub><br>
-<sub><em>[`mitm_all_hostnames.sgmodule`](https://raw.evolvereix.com/evolvereix/surge/main/modules/mitm_all_hostnames.sgmodule)</em></sub><br>
-<sub><em>[`bing_edge_ua.sgmodule`](https://raw.evolvereix.com/evolvereix/surge/main/modules/edge/bing_edge_ua.sgmodule)</em></sub><br>
-<sub><em>[`jd_price.sgmodule`](https://raw.evolvereix.com/evolvereix/surge/main/modules/jd/jd_price.sgmodule)</em></sub><br>
-<sub><em>[`wechat.sgmodule`](https://raw.evolvereix.com/evolvereix/surge/main/modules/wechat/wechat.sgmodule)</em></sub><br>
-<sub><em>[`network.sgmodule`](https://raw.evolvereix.com/evolvereix/surge/main/modules/network/network.sgmodule)</em></sub><br>
-<sub><em>[`stream.sgmodule`](https://raw.evolvereix.com/evolvereix/surge/main/modules/stream/stream.sgmodule)</em></sub><br>
-<sub><em>[`traffic.sgmodule`](https://raw.evolvereix.com/evolvereix/surge/main/modules/traffic/traffic.sgmodule)</em></sub><br>
+<sub><em>[`Module`](https://github.com/evolvereix/surge/tree/main/modules)</em></sub><br>
+<sub><em>[`iRingo`](https://nsringo.github.io/)</em></sub><br>
+<sub><em>[`DualSubs`](https://dualsubs.github.io/)</em></sub><br>
 
 <br>
 <br>
