@@ -1,4 +1,5 @@
-#!name=AliDNS DoH2
+#!name=External: AliDNS DoH2
+#!desc=Setting Alibaba DNS for DoH2
 #!category=External
 
 [General]
