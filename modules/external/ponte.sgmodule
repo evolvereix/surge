@@ -1,0 +1,6 @@
+#!name=External: Ponte Mode
+#!desc=Private home network
+#!category=External
+
+[Rule]
+IP-CIDR,192.168.30.0/24,DEVICE:MacMini
