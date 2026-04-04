@@ -1,1 +1,14 @@
+# macOS Security
 DOMAIN-SUFFIX,sentinelone.net
+DOMAIN,mdav.au.endpoint.security.microsoft.com
+DOMAIN,edr-aue.au.endpoint.security.microsoft.co
+DOMAIN,au-v20.events.endpoint.security.microsoft.com
+
+# Claude Code
+DOMAIN,browser-intake-datadoghq.com
+DOMAIN,browser-intake-us3-datadoghq.com
+DOMAIN-SUFFIX,browser-intake-us5-datadoghq.com
+DOMAIN,browser-intake-datadoghq.eu
+DOMAIN,browser-intake-ap1-datadoghq.com
+DOMAIN,browser-intake-ap2-datadoghq.com
+DOMAIN,browser-intake-ddog-gov.com
