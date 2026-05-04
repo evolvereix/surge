@@ -3,6 +3,7 @@ DOMAIN-SUFFIX,sentinelone.net
 DOMAIN,mdav.au.endpoint.security.microsoft.com
 DOMAIN,edr-aue.au.endpoint.security.microsoft.co
 DOMAIN,au-v20.events.endpoint.security.microsoft.com
+DOMAIN,edr-aue.au.endpoint.security.microsoft.com
 
 # Claude Code
 DOMAIN,browser-intake-datadoghq.com
