@@ -1,5 +1,5 @@
 #!name=Panel: Network
-#!desc=Show Network Information
+#!desc=Show network information
 #!category=Panel
 #!system=ios
 
@@ -7,5 +7,5 @@
 NetInfoPanel = style=info,script-name=NetInfoScript,update-interval=1
 
 [Script]
-# Network
-NetInfoScript = script-path=https://raw.githubusercontent.com/evolvereix/surge/refs/heads/main/modules/network/network.js,type=generic,timeout=30
+# Network Information
+NetInfoScript = script-path=https://raw.githubusercontent.com/evolvereix/surge/refs/heads/main/modules/network/network.js,type=generic,timeout=8
