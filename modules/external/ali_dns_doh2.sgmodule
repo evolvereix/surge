@@ -1,7 +1,0 @@
-#!name=External: AliDNS DoH2
-#!desc=Setting Alibaba DNS for DoH2
-#!category=External
-
-[General]
-# h3://dns.alidns.com/dns-query
-encrypted-dns-server = https://dns.alidns.com/dns-query

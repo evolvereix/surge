@@ -1,0 +1,6 @@
+#!name=External: DNS over HTTPS
+#!desc=Encrypted DNS resolution via DoH
+#!category=External
+
+[General]
+encrypted-dns-server = https://dns.alidns.com/dns-query, https://doh.pub/dns-query
