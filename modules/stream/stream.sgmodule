@@ -1,5 +1,5 @@
 #!name=Panel: Stream Panel
-#!desc=Netflix/Disney/YouTube Unlock Detection
+#!desc=Streaming service availability and region detection
 #!category=Panel
 
 [Panel]
