@@ -15,16 +15,31 @@ DOMAIN-SUFFIX,stripe.com
 DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaistatsig.com
 DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN,cdn.workos.com
+DOMAIN,forwarder.workos.com
+DOMAIN,frontend-apps-multi-region.workos.com
+DOMAIN,setup.workos.com
+DOMAIN,images.workoscdn.com
+DOMAIN,workos.imgix.net
 DOMAIN-KEYWORD,chatgpt
 
 # Claude
 DOMAIN-KEYWORD,claude
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,ant.dev
+DOMAIN-SUFFIX,anthropic.team
+DOMAIN-SUFFIX,antspace.dev
+DOMAIN-SUFFIX,clau.de
+DOMAIN,servd-anthropic-website.b-cdn.net
 
 # JetBrains AI
 DOMAIN-SUFFIX,grazie.ai
+DOMAIN,api.jetbrains.ai
+DOMAIN,api.jetbrains.cloud
+DOMAIN,api.app.prod.grazie.aws.intellij.net
 
 # GitHub Copilot
 DOMAIN-SUFFIX,githubcopilot.com
@@ -36,9 +51,12 @@ DOMAIN-SUFFIX,copilot.microsoft.com
 # Perplexity
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,pplx.ai
+DOMAIN-SUFFIX,pplx.app
 DOMAIN-SUFFIX,perplexitycdn.com
 
 # Google Gemini
+DOMAIN,aistudio.google.com
+DOMAIN,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,ai.google.dev
 DOMAIN-SUFFIX,makersuite.google.com
@@ -48,6 +66,7 @@ DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,mistral.ai
 
 # xAI / Grok
+DOMAIN-KEYWORD,grok
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
 
@@ -62,9 +81,11 @@ DOMAIN-SUFFIX,cohere.com
 # Hugging Face
 DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,hf.space
+DOMAIN-SUFFIX,hf.co
 
 # Replicate
 DOMAIN-SUFFIX,replicate.com
+DOMAIN-SUFFIX,replicate.delivery
 
 # Midjourney
 DOMAIN-SUFFIX,midjourney.com
